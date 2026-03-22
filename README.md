@@ -7,10 +7,10 @@
 
 3rd-year B.Tech CSE @ Galgotias University, Greater Noida
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-kumar-bhagat)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/btw-itz-sid)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/btw_itzz_sid_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/btw.itz.sid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kumar-bhagat-a8239a282/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/btw_itzz_sid_/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/btw_itz_SID)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/btw_itzz_sid_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthraj600@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=btw-itz-sid&color=blueviolet&style=flat-square)
 
@@ -19,16 +19,8 @@
 ---
 
 ## ✨ Who Am I?
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=siddharth+%3D+%7B;++role+%3A+3rd-year+B.Tech+CSE+%40+Galgotias;++focus+%3A+%5BAI%2FML%2C+Cybersecurity%2C+Web+Dev%5D;++building+%3A+KhataGST+—+GST+SaaS;++motto+%3A+Ship+fast.+Break+things.+Fix+them+better;%7D)
 
-```python
-siddharth = {
-    "role"     : "3rd-year B.Tech CSE @ Galgotias University",
-    "focus"    : ["AI/ML", "Cybersecurity", "Web Dev", "DSA"],
-    "building" : "KhataGST — GST SaaS for Indian MSMEs",
-    "learning" : ["LLM Security", "Ethical Hacking", "Deep Learning","Gen-AI"],
-    "motto"    : "Ship fast. Break things. Fix them better.",
-}
-```
 
 ---
 
