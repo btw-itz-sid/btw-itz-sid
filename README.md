@@ -18,7 +18,7 @@
 
 ---
 
-## ✨ Who Am ?
+## ✨ Who Am I ?
 ![Who Am I](typing.svg)
 
 
