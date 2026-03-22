@@ -19,7 +19,7 @@
 ---
 
 ## ✨ Who Am I?
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=siddharth+%3D+%7B;++role+%3A+3rd-year+B.Tech+CSE+%40+Galgotias;++focus+%3A+%5BAI%2FML%2C+Cybersecurity%2C+Web+Dev%5D;++building+%3A+KhataGST+—+GST+SaaS;++motto+%3A+Ship+fast.+Break+things.+Fix+them+better;%7D)
+![Who Am I](typing.svg)
 
 
 ---
