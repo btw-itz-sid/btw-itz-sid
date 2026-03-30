@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddharth%20Kumar%20Bhagat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20DSA&descAlignY=55&descSize=16"/>
 
 <!-- Typing SVG - LIVE animated text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sid+%E2%80%94+Building+AI+that+matters;3rd+Year+CSE+%40+Galgotias+University;Prompt+Injection+Defender+%F0%9F%94%90;AgriTech+Hackathon+National+Finalist+%F0%9F%8F%86;Open+to+Collabs+on+AI+%26+Security+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sid+%E2%80%94+Building+AI+that+matters;3rd+Year+CSE+%40+Galgotias+University;Prompt+Injection+Defender+%F0%9F%94%90;DSA+AI/ML+Web-Dev+Learner%F0%9F%8F%86;Open+to+Collabs+on+AI+%26+Security+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
