@@ -1,11 +1,11 @@
-[README.md](https://github.com/user-attachments/files/26349492/README.md)
+[README.md](https://github.com/user-attachments/files/26349640/README.md)
 <div align="center">
 
 <!-- Animated header with gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddharth%20Kumar%20Bhagat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20DSA&descAlignY=55&descSize=16"/>
 
 <!-- Typing SVG - LIVE animated text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sid+%E2%80%94+Building+AI+that+matters;3rd+Year+CSE+%40+Galgotias+University;Prompt+Injection+Defender+%F0%9F%94%90;AgriTech+Hackathon+%F0%9F%8F%86;Open+to+Collabs+on+AI+%26+Security+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sid+%E2%80%94+Building+AI+that+matters;3rd+Year+CSE+%40+Galgotias+University;Prompt+Injection+Defender+%F0%9F%94%90;AgriTech+Hackathon+National+Finalist+%F0%9F%8F%86;Open+to+Collabs+on+AI+%26+Security+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -45,7 +45,7 @@ class Siddharth:
 
 <div align="center">
 
-[![KhataGST](https://github-readme-stats.vercel.app/api/pin/?username=btw-itz-sid&repo=KhataGST&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/btw-itz-sid/KhataGST)
+[![KhataGST](https://github-stats.as93.net/api/pin/?username=btw-itz-sid&repo=KhataGST&theme=tokyonight&hide_border=true)](https://github.com/btw-itz-sid/KhataGST)
 
 </div>
 
@@ -112,22 +112,34 @@ class Siddharth:
 
 ## 📊 GitHub Stats
 
+<!--
+  ⚠️  WHY STATS BREAK: The public github-readme-stats.vercel.app hits GitHub API rate limits.
+  ✅  FIX USED BELOW: We use github-stats.as93.net (independently hosted, much more reliable)
+      + streak-stats.demolab.com (Demolab's own reliable instance)
+      + github-readme-activity-graph.vercel.app (separate service, unaffected)
+  
+  💡 PERMANENT FIX (optional): Fork https://github.com/anuraghazra/github-readme-stats
+     and deploy your own Vercel instance with your own GitHub token — zero rate limits ever.
+-->
+
 <div align="center">
 
-<!-- FIX: Using theme=tokyonight with correct params — these are the working versions -->
-<img src="https://github-readme-stats.vercel.app/api?username=btw-itz-sid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="Siddharth's GitHub Stats"/>
+<!-- Stats card — using as93.net mirror (reliable alternative host) -->
+<img src="https://github-stats.as93.net/api?username=btw-itz-sid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Siddharth's GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=btw-itz-sid&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<!-- Streak — using demolab instance (more reliable than herokuapp) -->
+<img src="https://streak-stats.demolab.com/?user=btw-itz-sid&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btw-itz-sid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+<!-- Top Languages — using as93.net mirror -->
+<img src="https://github-stats.as93.net/api/top-langs/?username=btw-itz-sid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
-<!-- Activity Graph - LIVE -->
+<!-- Activity Graph — separate service, works independently -->
 <div align="center">
 
 [![Siddharth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=btw-itz-sid&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/btw-itz-sid)
