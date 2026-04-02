@@ -32,7 +32,7 @@ class Siddharth:
         self.university = "Galgotias University, Greater Noida"
         self.year       = "3rd Year B.Tech CSE"
         self.focus      = ["AI/ML", "Cybersecurity", "Full Stack", "DSA"]
-        self.currently  = "Building KhataGST — AI GST filing SaaS for Indian MSMEs"
+        self.currently  = "Building KhataGST — AI GST filing SaaS for Indian MSMEs & Smart AI-resume Analyzer"
         self.open_to    = "Collaborations on AI, Security & impactful tech"
 
     def say_hi(self):
@@ -46,6 +46,8 @@ class Siddharth:
 <div align="center">
 
 [![KhataGST](https://github-stats.as93.net/api/pin/?username=btw-itz-sid&repo=KhataGST&theme=tokyonight&hide_border=true)](https://github.com/btw-itz-sid/KhataGST)
+[![Smart AI-Resume Analyzer](https://github-stats.as93.net/api/pin/?username=btw-itz-sid&repo=smart-interview-assistant
+&theme=tokyonight&hide_border=true)(https://github.com/btw-itz-sid/smart-interview-assistant)
 
 </div>
 
