@@ -46,8 +46,7 @@ class Siddharth:
 <div align="center">
 
 [![KhataGST](https://github-stats.as93.net/api/pin/?username=btw-itz-sid&repo=KhataGST&theme=tokyonight&hide_border=true)](https://github.com/btw-itz-sid/KhataGST)
-[![Smart AI-Resume Analyzer](https://github-stats.as93.net/api/pin/?username=btw-itz-sid&repo=smart-interview-assistant
-&theme=tokyonight&hide_border=true)(https://github.com/btw-itz-sid/smart-interview-assistant)
+
 
 </div>
 
@@ -55,8 +54,13 @@ class Siddharth:
 > Bill scan → auto GST calculation → one-click filing. Built for the *dukaan owner*, not the CA.
 
 `Node.js` `TypeScript` `PostgreSQL` `React` `Claude Vision API`
+<div align="center">
+[![Smart AI-Resume Analyzer](https://github-stats.as93.net/api/pin/?username=btw-itz-sid&repo=smart-interview-assistant
+&theme=tokyonight&hide_border=true)(https://github.com/btw-itz-sid/smart-interview-assistant)
+</div>
 
 ---
+
 
 ## 🚀 Projects
 
