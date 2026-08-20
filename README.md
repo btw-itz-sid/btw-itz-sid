@@ -166,10 +166,10 @@ class Siddharth:
 
 | 🏆 | Achievement |
 |:--:|:------------|
-| 🥇 | **Smart India Hackathon 2025** — National Level Finalist, AgriTech track (cattle breed AI, 87% accuracy) |
+| 🥇 | **Smart India Hackathon 2025** — Qualifier, AgriTech track (cattle breed AI, 87% accuracy) |
 | 🔐 | **PromptGuard AI** — Built a real-time prompt injection firewall for production LLMs |
 | 🤖 | **AI/ML Intern @ EduSkills Foundation** (2024) — Hands-on ML project experience |
-| 📊 | **50+ LeetCode Problems** — Arrays, Trees, Graphs, Dynamic Programming |
+| 📊 | **150+ LeetCode Problems** — Arrays, Trees, Graphs, Dynamic Programming |
 | 🌏 | **Open Source Builder** — Multiple public repos across AI, Security & Full Stack |
 
 </div>
