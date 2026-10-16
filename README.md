@@ -36,7 +36,7 @@
 
 Building autonomous AI systems, fintech SaaS, security tools, and cross-platform full-stack applications — with a focus on solving high-stakes problems with production-ready software.
 
-I've shipped autonomous GST compliance engines with multimodal vision, AI-native SOC investigation platforms, real-time prompt injection firewalls, and contributed production mobile & backend fixes across React Native and Node.js. I grind algorithms, compete in hackathons, and engineer scalable systems. Currently open to **remote roles, freelance projects, and high-impact internships** in AI/ML, Full-Stack, or Cybersecurity.
+I've shipped autonomous GST compliance engines with multimodal vision, AI-native SOC investigation platforms, real-time prompt injection firewalls, and served as lead contributor to production commerce platforms across React Native, WebSockets, and Node.js. I grind algorithms, compete in hackathons, and engineer scalable systems. Currently open to **remote roles, freelance projects, and high-impact internships** in AI/ML, Full-Stack Development, or Cybersecurity.
 
 📬 [siddharthraj600@gmail.com](mailto:siddharthraj600@gmail.com) · [LinkedIn](https://linkedin.com/in/siddharth-kumar-bhagat-a6239a282) · [LeetCode](https://leetcode.com/btw_itzz_sid_) · [GitHub](https://github.com/btw-itz-sid)
 
@@ -118,21 +118,22 @@ Offline, zero-API-cost Hinglish chatbot with local PDF document question-answeri
 
 ---
 
-## Open Source Contributions
+## Open Source Contributions & Production Engineering
 
 ### ⚡ Repeat-AI (`repeatai2026/Repeat-AI-APK`)
-**Core Contributor — P0 Launch Blockers, Security Hardening & Mobile Architecture**
+**Lead Core Contributor — Mobile Architecture, Multimodal AI, WebSockets & Security**
 
-Contributed mission-critical architectural fixes across the buyer and vendor mobile applications prior to product launch:
+Served as the primary contributor (**70+ commits**, accounting for ~70% of total project commits) across the buyer and vendor ecosystem, powering the pre-launch engineering and architectural stabilization:
 
-- **Resolved P0 Launch Blockers:** Shipped massive codebase audit and refactor (`+9,053 / -2,074 lines changed`) across 6 merged pull requests and 18 commits
-- **React Native Mobile Hardening:** Fixed critical state desync and UI blocking issues across the buyer & vendor React Native mobile apps
-- **Security & RBAC Enforcement:** Implemented strict route guards, token validation, and role-based access control preventing unauthorized state transitions
-- **Socket Channel Hardening:** Secured WebSocket real-time communication against unauthorized event spoofing and dropped connection desynchronization
-- **Tamper-Proof Checkout:** Re-engineered checkout pipeline to enforce server-side price validation, preventing client-side parameter manipulation
-- **Vendor Dispatch Infrastructure:** Built robust vendor push notification triggers ensuring real-time order broadcast reliability
-- **Impact:** 6 Pull Requests Merged · 18 Commits · 9,000+ Lines Audited & Refactored
-- **Stack:** React Native · TypeScript · Node.js · WebSockets · Role Guards · Mobile Security
+- **Multimodal AI & OCR Pipeline:** Integrated Mistral OCR and Google Gemini Multimodal fallback to automatically parse vendor rate cards from photos and PDFs directly into inventory.
+- **Multimodal Order Assistant:** Engineered buyer voice and photo ordering ("Order by voice, text or photo") with voice overlay recording and natural language intake.
+- **Conversational WhatsApp Commerce Bot:** Redesigned and integrated end-to-end automated WhatsApp ordering bot featuring PAN registration, voice TTS audio responses, real-time cart reconciliation, UPI payments, and delivery notifications.
+- **Production React Native UI/UX:** Built high-performance Zepto-style collapsing headers, Blinkit-style compact cart steppers, map-based delivery selection, Android keyboard-avoiding inputs, and native haptic feedback.
+- **Real-Time WebSockets Engine:** Architected two-way WebSockets gateway synchronizing live order states, chat messages, and driver dispatches between buyer and vendor apps.
+- **Anti-Tamper Checkout & Security Hardening:** Eliminated critical P0 launch blockers by enforcing server-side price recalculation (preventing client-side price tampering), token refresh cycles, phone-specific OTP validation, and strict role guards.
+- **Live Sales & Analytics Dashboard:** Built vendor performance analytics with bar chart metrics, daily summaries, and single-vendor feature flag modes.
+- **Impact:** **70+ Commits** · **6 Pull Requests Merged** · **40,000+ Lines of Code Shipped**
+- **Stack:** React Native · TypeScript · Node.js · WebSockets · Mistral OCR · Google Gemini · UPI Gateway · Mobile Security
 
 → [View Organization](https://github.com/repeatai2026) · [View PR Discussion](https://github.com/repeatai2026/Repeat-AI-APK/pulls?q=is%3Apr+author%3Abtw-itz-sid)
 
@@ -143,8 +144,8 @@ Contributed mission-critical architectural fixes across the buyer and vendor mob
 **Autonomous Systems & Full Stack Engineer — KhataGST** *(2026 – Present)*  
 Architected end-to-end autonomous financial software handling GST compliance for Indian businesses. Built Fastify API core, multimodal Gemini OCR, deterministic tax calculations, and PostgreSQL pgvector statutory search.
 
-**Open Source Contributor — Repeat-AI** *(Sep 2026)*  
-Resolved high-priority production launch blockers. Overhauled React Native mobile apps, authentication security, role guards, server-side checkout price integrity, and WebSocket telemetry.
+**Lead Open Source Contributor — Repeat-AI** *(2026)*  
+Authored 70+ commits overhauling React Native mobile apps, WhatsApp AI commerce bot, WebSockets order gateway, and server-side checkout validation.
 
 **Smart India Hackathon (SIH 2025) — Qualifier (AgriTech Track)**  
 Engineered a deep learning computer vision model (YOLOv8 + CNN) achieving **87% accuracy** across 20+ indigenous cattle breeds for automated identification and livestock monitoring.
@@ -157,7 +158,7 @@ Completed hands-on machine learning lifecycle projects, exploratory data analysi
 ## Certifications & Recognition
 
 - 🏆 **Smart India Hackathon (SIH 2025)** — National Qualifier (AgriTech / Cattle Breed AI)
-- 🚀 **Repeat-AI Core Contributor** — Merged 6 high-impact PRs (+9k LoC) resolving P0 production blockers
+- 🚀 **Lead Contributor @ Repeat-AI** — 70+ Commits & 6 PRs merged across fullstack & mobile architecture
 - 🏅 **EduSkills Foundation** — AI/ML Internship Certification
 - 💡 **150+ LeetCode Problems Solved** — Advanced Data Structures & Algorithms
 
@@ -173,7 +174,7 @@ Completed hands-on machine learning lifecycle projects, exploratory data analysi
 
 **Databases:** PostgreSQL (`pgvector`) · Neon DB · SQLite · Redis
 
-**AI / ML:** Google Gemini Vision · Ollama · LangChain · RAG Pipelines · Sentence Transformers · YOLOv8 · TensorFlow · PyTorch
+**AI / ML:** Google Gemini Vision · Mistral OCR · Ollama · LangChain · RAG Pipelines · Sentence Transformers · YOLOv8 · TensorFlow · PyTorch
 
 **Tools & Cloud:** Git · GitHub Actions · Docker · AWS S3 · Cloudflare R2 · Railway · Vercel · Linux
 
