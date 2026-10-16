@@ -1,212 +1,212 @@
-[README.md](https://github.com/user-attachments/files/26349640/README.md)
-<div align="center">
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-<!-- Animated header with gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddharth%20Kumar%20Bhagat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20DSA&descAlignY=55&descSize=16"/>
+###
 
-<!-- Typing SVG - LIVE animated text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sid+%E2%80%94+Building+AI+that+matters;3rd+Year+CSE+%40+Galgotias+University;Prompt+Injection+Defender+%F0%9F%94%90;DSA+AI/ML+Web-Dev+Learner%F0%9F%8F%86;Open+to+Collabs+on+AI+%26+Security+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<div data-importer="socials" align="center">
 
-<br/>
+  <a href="https://linkedin.com/in/siddharth-kumar-bhagat-a6239a282" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn"/>
+  </a>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kumar-bhagat-a8239a282/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/btw_itzz_sid_/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/btw_itz_SID)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btw_itzz_sid_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthraj600@gmail.com)
+  <a href="https://leetcode.com/btw_itzz_sid_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&style=for-the-badge" height="25" alt="LeetCode"/>
+  </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=btw-itz-sid&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+  <a href="https://twitter.com/btw_itz_SID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter"/>
+  </a>
+
+  <a href="https://instagram.com/btw_itz_sid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram"/>
+  </a>
+
+  <a href="mailto:siddharthraj600@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail"/>
+  </a>
 
 </div>
+
+###
+
+# Siddharth Kumar Bhagat
+
+**B.Tech CSE '27 · Galgotias University**
+
+Building autonomous AI systems, fintech SaaS, security tools, and cross-platform full-stack applications — with a focus on solving high-stakes problems with production-ready software.
+
+I've shipped autonomous GST compliance engines with multimodal vision, AI-native SOC investigation platforms, real-time prompt injection firewalls, and contributed production mobile & backend fixes across React Native and Node.js. I grind algorithms, compete in hackathons, and engineer scalable systems. Currently open to **remote roles, freelance projects, and high-impact internships** in AI/ML, Full-Stack, or Cybersecurity.
+
+📬 [siddharthraj600@gmail.com](mailto:siddharthraj600@gmail.com) · [LinkedIn](https://linkedin.com/in/siddharth-kumar-bhagat-a6239a282) · [LeetCode](https://leetcode.com/btw_itzz_sid_) · [GitHub](https://github.com/btw-itz-sid)
 
 ---
 
-## 🧠 About Me
+## Projects
 
-```python
-class Siddharth:
-    def __init__(self):
-        self.name       = "Siddharth Kumar Bhagat"
-        self.alias      = "btw_itz_sid"
-        self.university = "Galgotias University, Greater Noida"
-        self.year       = "3rd Year B.Tech CSE"
-        self.focus      = ["AI/ML", "Cybersecurity", "Full Stack", "DSA"]
-        self.currently  = "Building KhataGST — AI GST filing SaaS for Indian MSMEs & Smart AI-resume Analyzer"
-        self.open_to    = "Collaborations on AI, Security & impactful tech"
+### 🧾 KhataGST *(currently building)*
+The Autonomous AI Chartered Accountant for Indian MSMEs — automated GST return computation, Section 17(5) ITC reconciliation, and statutory legal guidance.
 
-    def say_hi(self):
-        print("Code. Build. Ship. Repeat. 🚀")
-```
+- Multimodal OCR with Google Gemini Vision extracting line-items from crumpled receipts, bills, and PDFs with paise-level zero-floating-point accuracy
+- Deterministic GST computation engine generating GSTR-1 outward tables (B2B, B2CL, B2CS, HSN summaries) and GSTR-3B summary liabilities
+- Statutory Legal RAG indexed with `pgvector` across the CGST/SGST Acts and CBIC circulars to cite exact legal sections and precedents
+- Real-time Section 17(5) blocked credit classifier and Reverse Charge Mechanism (RCM) audit pipeline
+- Multi-tenant RBAC (Owner, Admin, CA) with immutable compliance audit trails and session rate limiting
+- **Stack:** TypeScript · React.js · Node.js · Fastify · PostgreSQL (`pgvector`) · Google Gemini · AWS S3 · Railway
+
+→ [View repo](https://github.com/btw-itz-sid/KhataGST)
 
 ---
 
-## 🏗️ Currently Building
+### 🛡️ SentinelX SOC Analyst
+Autonomous AI-native Security Operations Center platform for real-time threat investigation and incident triage.
 
-<div align="center">
+- Multi-agent investigation pipeline for ingestion, anomaly detection, behavioral heuristic analysis, and threat prioritization
+- Automated incident triage engine providing MITRE ATT&CK mapping, severity scoring, and structured remediation playbooks
+- Interactive threat-hunting UI designed to slash enterprise Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR)
+- **Stack:** TypeScript · React.js · Node.js · Express · PostgreSQL · AI Agents · TailwindCSS
 
-[![KhataGST](https://github-stats.as93.net/api/pin/?username=btw-itz-sid&repo=KhataGST&theme=tokyonight&hide_border=true)](https://github.com/btw-itz-sid/KhataGST)
-
-
-</div>
-
-> 🇮🇳 **KhataGST** — AI-powered GST filing SaaS for Indian MSMEs  
-> Bill scan → auto GST calculation → one-click filing. Built for the *dukaan owner*, not the CA.
-
-`Node.js` `TypeScript` `PostgreSQL` `React` `Claude Vision API`
+→ [View repo](https://github.com/btw-itz-sid/SenitelX-SOC-Analyst)
 
 ---
 
+### 🎯 Smart Interview Assistant
+AI-powered career enablement platform featuring 5-dimension resume intelligence and adaptive mock interview sessions.
 
-## 🚀 Projects
+- Advanced ATS resume analyzer scoring keyword density, quantitative metrics, layout formatting, and role alignment
+- Dynamic JD-to-Interview pipeline: extracts technical prerequisites from target job descriptions to synthesize twisted, real-world interview scenarios
+- Real-time conversational mock interview room with constructive rubric-based evaluations
+- Production deployment with Lucide-engineered UI, Recharts analytics, and zero mock data
+- **Stack:** TypeScript · Next.js / React.js · Node.js · Express · AI APIs · Recharts · Vercel
 
-<div align="center">
-
-| 🔗 Project | 📝 Description | ⚙️ Stack |
-|:-----------|:---------------|:---------|
-| [🛡️ **PromptGuard AI**](https://github.com/btw-itz-sid/promptguard-ai) | Real-time LLM firewall — detects & blocks prompt injection attacks | Node.js · Express · JS |
-| [🤖 **Zoro AI**](https://github.com/btw-itz-sid/zoro-ai-chatbot) | Offline Hinglish chatbot with PDF Q&A — zero API cost, 100% private | Python · Streamlit · Ollama |
-| [🐄 **Cattle Breed Recognition**](https://github.com/btw-itz-sid) | CNN model — 87% accuracy on 20+ breeds · SIH 2025 National Level | TensorFlow · YOLOv8 · Python |
-| [🎯 **Career Mentor AI**](https://github.com/btw-itz-sid) | ML-powered career guidance with NLP conversational interface | Python · ML · NLP |
-| [💰 **KhataGST**](https://github.com/btw-itz-sid/KhataGST) | AI GST filing SaaS — scan bill → file GST, built for Indian MSMEs | React · TS · PostgreSQL |
-
-</div>
+→ [View repo](https://github.com/btw-itz-sid/smart-interview-assistant) · [Live Demo](https://smart-interview-assistant-sepia.vercel.app)
 
 ---
 
-## 🛠️ Tech Stack
+### 🔒 PromptGuard AI
+Real-time LLM firewall and defense layer engineered to detect and mitigate prompt injection, jailbreaks, and adversarial payloads.
 
-<div align="center">
+- Multi-tier inspection pipeline: lexical normalization → heuristic regex filter → semantic intent classifier → threat risk scoring
+- Mitigates OWASP Top 10 for LLM risks including indirect prompt injections, system prompt extraction, roleplay exploits, and delimiter bypasses
+- Low-latency proxy architecture with real-time audit telemetry dashboard
+- **Stack:** Node.js · Express · JavaScript · TypeScript · Semantic NLP · Security Telemetry
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+→ [View repo](https://github.com/btw-itz-sid/promptguard-ai)
 
 ---
 
-## 📊 GitHub Stats
+### 🏥 FEDHealth
+Privacy-preserving federated machine learning architecture for collaborative healthcare diagnostics.
 
-<!--
-  ⚠️  WHY STATS BREAK: The public github-readme-stats.vercel.app hits GitHub API rate limits.
-  ✅  FIX USED BELOW: We use github-stats.as93.net (independently hosted, much more reliable)
-      + streak-stats.demolab.com (Demolab's own reliable instance)
-      + github-readme-activity-graph.vercel.app (separate service, unaffected)
-  
-  💡 PERMANENT FIX (optional): Fork https://github.com/anuraghazra/github-readme-stats
-     and deploy your own Vercel instance with your own GitHub token — zero rate limits ever.
--->
+- Distributed Federated Averaging (`FedAvg`) pipeline enabling multi-node model training without centralizing sensitive patient EHR records
+- Ensures complete data sovereignty and strict compliance with global healthcare privacy regulations (DPDP / HIPAA)
+- Structured web-based benchmarking suite validating localized training convergence across multiple distributed clients
+- **Stack:** TypeScript · React.js · Node.js · Federated Learning · Python · PostgreSQL
 
-<div align="center">
-
-<!-- Stats card — using as93.net mirror (reliable alternative host) -->
-<img src="https://github-stats.as93.net/api?username=btw-itz-sid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Siddharth's GitHub Stats"/>
-
-<!-- Streak — using demolab instance (more reliable than herokuapp) -->
-<img src="https://streak-stats.demolab.com/?user=btw-itz-sid&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<!-- Top Languages — using as93.net mirror -->
-<img src="https://github-stats.as93.net/api/top-langs/?username=btw-itz-sid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
-
-</div>
-
-<!-- Activity Graph — separate service, works independently -->
-<div align="center">
-
-[![Siddharth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=btw-itz-sid&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/btw-itz-sid)
-
-</div>
+→ [View repo](https://github.com/btw-itz-sid/FEDHealth)
 
 ---
 
-## 🏆 GitHub Trophies
+### 🤖 Zoro AI
+Offline, zero-API-cost Hinglish chatbot with local PDF document question-answering.
 
-<div align="center">
+- Private RAG pipeline running entirely offline with Ollama local LLMs for 100% data confidentiality
+- Conversational interface supporting natural Hinglish and localized context retention
+- **Stack:** Python · Streamlit · Ollama · LangChain · Vector Embeddings
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=btw-itz-sid&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Highlights & Achievements
-
-<div align="center">
-
-| 🏆 | Achievement |
-|:--:|:------------|
-| 🥇 | **Smart India Hackathon 2025** — Qualifier, AgriTech track (cattle breed AI, 87% accuracy) |
-| 🔐 | **PromptGuard AI** — Built a real-time prompt injection firewall for production LLMs |
-| 🤖 | **AI/ML Intern @ EduSkills Foundation** (2024) — Hands-on ML project experience |
-| 📊 | **150+ LeetCode Problems** — Arrays, Trees, Graphs, Dynamic Programming |
-| 🌏 | **Open Source Builder** — Multiple public repos across AI, Security & Full Stack |
-
-</div>
+→ [View repo](https://github.com/btw-itz-sid/zoro-ai-chatbot)
 
 ---
 
-## 📈 LeetCode Stats
+## Open Source Contributions
 
-<div align="center">
+### ⚡ Repeat-AI (`repeatai2026/Repeat-AI-APK`)
+**Core Contributor — P0 Launch Blockers, Security Hardening & Mobile Architecture**
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/btw_itzz_sid_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/btw_itzz_sid_/)
+Contributed mission-critical architectural fixes across the buyer and vendor mobile applications prior to product launch:
 
-</div>
+- **Resolved P0 Launch Blockers:** Shipped massive codebase audit and refactor (`+9,053 / -2,074 lines changed`) across 6 merged pull requests and 18 commits
+- **React Native Mobile Hardening:** Fixed critical state desync and UI blocking issues across the buyer & vendor React Native mobile apps
+- **Security & RBAC Enforcement:** Implemented strict route guards, token validation, and role-based access control preventing unauthorized state transitions
+- **Socket Channel Hardening:** Secured WebSocket real-time communication against unauthorized event spoofing and dropped connection desynchronization
+- **Tamper-Proof Checkout:** Re-engineered checkout pipeline to enforce server-side price validation, preventing client-side parameter manipulation
+- **Vendor Dispatch Infrastructure:** Built robust vendor push notification triggers ensuring real-time order broadcast reliability
+- **Impact:** 6 Pull Requests Merged · 18 Commits · 9,000+ Lines Audited & Refactored
+- **Stack:** React Native · TypeScript · Node.js · WebSockets · Role Guards · Mobile Security
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- To enable this: go to your GitHub repo → Settings → Actions → allow workflows, then add the snake workflow as described below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btw-itz-sid/btw-itz-sid/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btw-itz-sid/btw-itz-sid/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/btw-itz-sid/btw-itz-sid/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> ⚡ **To activate the snake:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo. It auto-generates the snake SVG on a schedule.
-
-</div>
+→ [View Organization](https://github.com/repeatai2026) · [View PR Discussion](https://github.com/repeatai2026/Repeat-AI-APK/pulls?q=is%3Apr+author%3Abtw-itz-sid)
 
 ---
 
-<div align="center">
+## Experience & Competitions
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+**Autonomous Systems & Full Stack Engineer — KhataGST** *(2026 – Present)*  
+Architected end-to-end autonomous financial software handling GST compliance for Indian businesses. Built Fastify API core, multimodal Gemini OCR, deterministic tax calculations, and PostgreSQL pgvector statutory search.
 
-**💬 siddharthraj600@gmail.com · Open to collabs on AI, Security & impactful tech 🚀**
+**Open Source Contributor — Repeat-AI** *(Sep 2026)*  
+Resolved high-priority production launch blockers. Overhauled React Native mobile apps, authentication security, role guards, server-side checkout price integrity, and WebSocket telemetry.
 
-</div>
+**Smart India Hackathon (SIH 2025) — Qualifier (AgriTech Track)**  
+Engineered a deep learning computer vision model (YOLOv8 + CNN) achieving **87% accuracy** across 20+ indigenous cattle breeds for automated identification and livestock monitoring.
+
+**AI/ML Virtual Intern — EduSkills Foundation**  
+Completed hands-on machine learning lifecycle projects, exploratory data analysis, and predictive model deployment pipelines.
+
+---
+
+## Certifications & Recognition
+
+- 🏆 **Smart India Hackathon (SIH 2025)** — National Qualifier (AgriTech / Cattle Breed AI)
+- 🚀 **Repeat-AI Core Contributor** — Merged 6 high-impact PRs (+9k LoC) resolving P0 production blockers
+- 🏅 **EduSkills Foundation** — AI/ML Internship Certification
+- 💡 **150+ LeetCode Problems Solved** — Advanced Data Structures & Algorithms
+
+---
+
+## Skills
+
+**Languages:** TypeScript · JavaScript · Python · Java · SQL · HTML5 · CSS3
+
+**Frontend & Mobile:** React.js · Next.js · React Native · Vite · TailwindCSS · Streamlit
+
+**Backend & Architecture:** Node.js · Fastify · Express.js · REST APIs · WebSockets · Microservices
+
+**Databases:** PostgreSQL (`pgvector`) · Neon DB · SQLite · Redis
+
+**AI / ML:** Google Gemini Vision · Ollama · LangChain · RAG Pipelines · Sentence Transformers · YOLOv8 · TensorFlow · PyTorch
+
+**Tools & Cloud:** Git · GitHub Actions · Docker · AWS S3 · Cloudflare R2 · Railway · Vercel · Linux
+
+**Domains:** Agentic AI · Fintech & Tax Tech · Prompt Security & LLM Defense · Mobile Architecture · Autonomous SOC · Federated Learning
+
+---
+
+## Competitive Programming
+
+**Primary language:** Java / C++  
+Active problem-solver on **LeetCode** and algorithmic platforms with **150+ problems solved**, specializing in:
+- Dynamic Programming & Recursion
+- Trees, Binary Search Trees & Tries
+- Graph Theory (BFS, DFS, Dijkstra, Topo Sort)
+- Sliding Window, Two Pointers & Monotonic Stacks
+
+→ [LeetCode Profile: @btw_itzz_sid_](https://leetcode.com/btw_itzz_sid_)
+
+---
+
+## Let's talk
+
+I'm available for **remote roles, high-impact freelance projects, and engineering internships.** If you're building something challenging in AI, fintech, security, or cross-platform systems — let's connect.
+
+**Email:** siddharthraj600@gmail.com  
+**LinkedIn:** [linkedin.com/in/siddharth-kumar-bhagat-a6239a282](https://linkedin.com/in/siddharth-kumar-bhagat-a6239a282)  
+**GitHub:** [github.com/btw-itz-sid](https://github.com/btw-itz-sid)  
+**LeetCode:** [leetcode.com/btw_itzz_sid_](https://leetcode.com/btw_itzz_sid_)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=btw-itz-sid&theme=aura_dark&animation=rise&name=Siddharth+Kumar+Bhagat)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=btw-itz-sid&theme=aura_dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=btw-itz-sid&theme=aura_dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=btw-itz-sid&theme=aura_dark&animation=rise)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=btw-itz-sid&theme=aura_dark&animation=rise&utcOffset=0)
+
+<a href="https://visitorbadge.io/status?path=btw-itz-sid"><img src="https://api.visitorbadge.io/api/visitors?path=btw-itz-sid&countColor=%23263759" /></a>
